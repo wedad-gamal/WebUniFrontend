@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model DetailedCourseItem
+@{
+}
+
+<!-- course -->
+<div class="mix col-lg-3 col-md-4 col-sm-6 finance">
+    <div class="course-item">
+        <div class="course-thumb set-bg" data-setbg="@Model.Image">
+            <div class="price">Price: $@Model.Price</div>
+        </div>
+        <div class="course-info">
+            <div class="course-text">
+                <partial name="~/Views/Components/Cart/LongCart/Title.cshtml" model="Model.Title" />
+
+                <partial name="~/Views/Components/Cart/LongCart/Description.cshtml" model="Model.Description" />
+
+                <partial name="~/Views/Components/Cart/LongCart/CartFooter.cshtml" model="Model.Footer" />
+                
+            </div>
+            <partial name="~/Views/Components/Cart/LongCart/Instructor.cshtml" model="Model.Instructor" />
+        </div>
+    </div>
+</div>

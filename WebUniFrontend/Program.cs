@@ -1,7 +1,12 @@
+using WebUniFrontend.Application.Contract;
+using WebUniFrontend.Application.Services.CourseService;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+//builder.Services.AddScoped<ICourseServices>(i => new CourseServicesTempData());
+builder.Services.AddScoped<ICourseServices>(i => new CourseServiceByJson());
 
 var app = builder.Build();
 

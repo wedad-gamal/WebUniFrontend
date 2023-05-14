@@ -1,0 +1,106 @@
+[
+  {
+    "price": 100,
+    "instructor": {
+      "id": 0,
+      "image": "/img/authors/1.jpg",
+      "name": "William Parker",
+      "jobTitle": "Developer"
+    },
+    "image": "/img/courses/1.jpg",
+    "title": "IT Development",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "footer": "110 Students"
+  },
+  {
+    "price": 110,
+    "instructor": {
+      "id": 0,
+      "image": "/img/authors/2.jpg",
+      "name": "William Parker",
+      "jobTitle": "Developer"
+    },
+    "image": "/img/courses/2.jpg",
+    "title": "Web Design",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "footer": "120 Students"
+  },
+  {
+    "price": 120,
+    "instructor": {
+      "id": 0,
+      "image": "/img/authors/3.jpg",
+      "name": "William Parker",
+      "jobTitle": "Developer"
+    },
+    "image": "/img/courses/3.jpg",
+    "title": "Illustration \u0026 Drawing",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "footer": "130 Students"
+  },
+  {
+    "price": 100,
+    "instructor": {
+      "id": 0,
+      "image": "/img/authors/4.jpg",
+      "name": "William Parker",
+      "jobTitle": "Developer"
+    },
+    "image": "/img/courses/4.jpg",
+    "title": "Social Media",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "footer": "140 Students"
+  },
+  {
+    "price": 170,
+    "instructor": {
+      "id": 0,
+      "image": "/img/authors/5.jpg",
+      "name": "William Parker",
+      "jobTitle": "Developer"
+    },
+    "image": "/img/courses/5.jpg",
+    "title": "Photoshop",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "footer": "150 Students"
+  },
+  {
+    "price": 190,
+    "instructor": {
+      "id": 0,
+      "image": "/img/authors/6.jpg",
+      "name": "William Parker",
+      "jobTitle": "Developer"
+    },
+    "image": "/img/courses/6.jpg",
+    "title": "Cryptocurrencies",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "footer": "160 Students"
+  },
+  {
+    "price": 200,
+    "instructor": {
+      "id": 0,
+      "image": "/img/authors/7.jpg",
+      "name": "William Parker",
+      "jobTitle": "Developer"
+    },
+    "image": "/img/courses/7.jpg",
+    "title": "IT Development 2",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "footer": "170 Students"
+  },
+  {
+    "price": 180,
+    "instructor": {
+      "id": 0,
+      "image": "/img/authors/8.jpg",
+      "name": "William Parker",
+      "jobTitle": "Developer"
+    },
+    "image": "/img/courses/8.jpg",
+    "title": "HTML 5",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "footer": "180 Students"
+  }
+]

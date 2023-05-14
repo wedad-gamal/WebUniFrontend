@@ -1,0 +1,38 @@
+[
+  {
+    "image": "/img/categories/1.jpg",
+    "title": "IT Development",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "footer": "100 Courses"
+  },
+  {
+    "image": "/img/categories/2.jpg",
+    "title": "Web Design",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "footer": "120 Courses"
+  },
+  {
+    "image": "/img/categories/3.jpg",
+    "title": "Illustration \u0026 Drawing",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "footer": "130 Courses"
+  },
+  {
+    "image": "/img/categories/4.jpg",
+    "title": "Social Media",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "footer": "140 Courses"
+  },
+  {
+    "image": "/img/categories/5.jpg",
+    "title": "Photoshop",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "footer": "150 Courses"
+  },
+  {
+    "image": "/img/categories/6.jpg",
+    "title": "Cryptocurrencies",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "footer": "160 Courses"
+  }
+]
